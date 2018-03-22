@@ -3,26 +3,25 @@ Trabajo de Alejandro Caralt Caralt.
 # Temática
 Estudio de programación de código abierto: Planificación de Proyectos OpenSource.
 
-
-## Log-in 
+# Log-in 
 <img src="img/index.png" >
-### El sistema de sesión activa tiene fallos a la hora de cerrar la sesión.
+## El sistema de sesión activa tiene fallos a la hora de cerrar la sesión.
 
-## Registro de Usuario
+# Registro de Usuario
 <img src="img/registro.png">
-### El registro toma en cuenta un nickname único en la base de datos.
+## El registro toma en cuenta un nickname único en la base de datos.
 
-## Página Principal
+# Página Principal
 <img src="img/menu.png" >
-### Se muestran las dos tablas y opciones para añadir o modificarlas, exceptuando en la tabla de usuario que no se puede modificar.
+## Se muestran las dos tablas y opciones para añadir o modificarlas, exceptuando en la tabla de usuario que no se puede modificar.
 
-## Registro de un Nuevo Proyeco
+# Registro de un Nuevo Proyeco
 <img src="img/proyecto.png">
-### El registro tiene en cuenta un código de proyecto con incremento automático, los campos de "Github", "Administrador" y "Descripción" son opcionales.
+## El registro tiene en cuenta un código de proyecto con incremento automático, los campos de "Github", "Administrador" y "Descripción" son opcionales.
 
-## Modificar Tabla de Proyectos
+# Modificar Tabla de Proyectos
 <img src="img/modificarproyecto.png">
-### Las modificaciones y las eliminaciones no se guardan, he encontrado varios fallos que no he podido solventar.
+## Las modificaciones y las eliminaciones no se guardan, he encontrado varios fallos que no he podido solventar.
 
 
 *De vez en cuando da un fallo en la misma línea del código la cual está vacía "System.out.print(usuario)" expected ";"
