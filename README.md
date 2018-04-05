@@ -4,7 +4,7 @@ Trabajo de Alejandro Caralt Caralt.
 Estudio de programación de código abierto: Planificación de Proyectos OpenSource.
 
 # Log-in 
-<img src="img/index.png" >
+<img src="img/Index.png" >
 ## El sistema de sesión activa tiene fallos a la hora de cerrar la sesión.
 
 # Registro de Usuario
@@ -20,7 +20,7 @@ Estudio de programación de código abierto: Planificación de Proyectos OpenSou
 ## El registro tiene en cuenta un código de proyecto con incremento automático, los campos de "Github", "Administrador" y "Descripción" son opcionales.
 
 # Modificar Tabla de Proyectos
-<img src="img/modificarproyecto.png">
+<img src="img/modificarProyecto.png">
 ## Las modificaciones y las eliminaciones no se guardan, he encontrado varios fallos que no he podido solventar.
 
 
